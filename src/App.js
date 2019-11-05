@@ -8,8 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          SDC <code>src/App.js</code> and save to reload.
-        </p>
+          SDC <code>src/App.js</code> I was changed on the feature branch
         <a
           className="App-link"
           href="https://reactjs.org"
