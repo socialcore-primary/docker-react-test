@@ -8,7 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          SDC <code>src/App.js</code> and save to reload.
+          SDC <code>src/App.js</code> I ws changed on the feature branch
+          
         </p>
         <a
           className="App-link"
